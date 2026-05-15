@@ -1,0 +1,7 @@
+Masukkan jumlah pasien: 2
+
+Pasien ke-1:
+Nama: Joyce
+Umur: 20
+Kategori: Menular
+Tingkat Urgensi: 10

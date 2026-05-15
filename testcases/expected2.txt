@@ -1,0 +1,5 @@
+--- Urutan Pelayanan IGD ---
+Pasien urutan 1: Martha
+Pasien urutan 2: Dimas
+Pasien urutan 3: Dian
+Pasien urutan 4: Joyce

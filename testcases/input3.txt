@@ -1,0 +1,19 @@
+Masukkan jumlah pasien: 3
+
+Pasien ke-1:
+Nama: Ian
+Umur: 23
+Kategori: Sedang
+Tingkat Urgensi: 1
+
+Pasien ke-2:
+Nama: Rivaldi
+Umur: 40
+Kategori: Ringan
+Tingkat Urgensi: 8
+
+Pasien ke-3:
+Nama: Dimas
+Umur: 5
+Kategori: Berat
+Tingkat Urgensi: 8

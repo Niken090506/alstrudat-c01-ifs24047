@@ -1,0 +1,25 @@
+Masukkan jumlah pasien: 4
+
+Pasien ke-1:
+Nama: Joyce
+Umur: 20
+Kategori: Ringan
+Tingkat Urgensi: 2
+
+Pasien ke-2:
+Nama: Martha
+Umur: 70
+Kategori: Berat
+Tingkat Urgensi: 8
+
+Pasien ke-3:
+Nama: Dian
+Umur: 25
+Kategori: Sedang
+Tingkat Urgensi: 5
+
+Pasien ke-4:
+Nama: Dimas
+Umur: 5
+Kategori: berat
+Tingkat Urgensi: 8
